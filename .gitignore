@@ -1,0 +1,6 @@
+VisualStudio2012/x64
+VisualStudio2012/Win32
+*.sdf
+*.suo
+*.cproject
+*.project
